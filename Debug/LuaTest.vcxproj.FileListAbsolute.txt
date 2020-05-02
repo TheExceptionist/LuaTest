@@ -1,0 +1,2 @@
+C:\Users\kstep\source\repos\LuaTest\Debug\LuaTest.exe
+C:\Users\kstep\source\repos\LuaTest\Debug\LuaTest.pdb
